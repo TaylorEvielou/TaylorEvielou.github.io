@@ -1,0 +1,83 @@
+body {
+	background-image: url("https://orig00.deviantart.net/a427/f/2017/270/8/9/pastel_sky_by_ryllcat21-dboq3yo.gif");
+}
+
+
+
+h1 {
+	font-size:50px;
+	color:#ff82f8;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+
+a:link, a:visited {
+    background-color:#e9c8ff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+
+}
+
+
+a:hover, a:active {
+    background-color:#e98dff;
+}
+
+
+
+h2 {
+	color:#c274ff;
+	text-align: center;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+
+p {
+	text-align: center;
+	color:#b500ff;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+
+img {
+	display:block;
+	margin:auto;
+}
+
+
+marquee {
+	font-size:30px;
+	color:#ff00ff;
+	font-family: 'Dancing Script', cursive;
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+
+iframe {
+	display:block;
+	margin:auto;
+}
+
+
+h4 {
+	padding-top: 50px;
+}
+
+
+div {
+	display:block;
+	text-align:center;
+}
+
+
+
+
