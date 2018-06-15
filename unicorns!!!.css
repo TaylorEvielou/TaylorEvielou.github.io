@@ -1,0 +1,57 @@
+body {
+	animation:bodyChanging 20s;
+	animation-iteration-count: infinite;
+}
+
+
+@keyframes bodyChanging {
+	0% {background-color:#b500ff;}
+	10% {background-color:#ff00ff;}
+	20% {background-color:#c274ff;}
+	30% {background-color:#e9c8ff;}
+	40% {background-color:#b500ff;}
+	50% {background-color:#ff00ff;}
+	60% {background-color:#e9c8ff;}
+	70% {background-color:#b500ff;}
+	80% {background-color:#e9c8ff;}
+	90% {background-color:#c274ff;}
+	90% {background-color:#b500ff;}
+}
+
+
+iframe {
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+div {
+	padding-top: 50px;
+
+}
+
+
+a {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
