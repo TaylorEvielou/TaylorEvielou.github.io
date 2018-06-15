@@ -1,0 +1,46 @@
+body {
+    background-image: url("http://celebwallpapers.net/wp-content/uploads/2017/11/pastel-wallpapers-backgrounds-beautiful-pastel-wallpaper.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #A26BA5;
+}
+
+
+
+
+iframe {
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+div {
+	padding-top: 50px;
+
+}
+
+
+a {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
