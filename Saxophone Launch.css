@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/04/Soft-Pastels-Wallpaper.jpg");
+    background-position: center;
+    
+    background-size: cover;
+}
+
+
+
+
+iframe {
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+div {
+	padding-top: 50px;
+
+}
+
+
+a {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
