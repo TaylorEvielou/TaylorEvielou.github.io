@@ -1,0 +1,46 @@
+body {
+    background-image: url("http://globalmedicalco.com/photos/globalmedicalco/5/23810.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#c4edff;
+}
+
+
+
+
+iframe {
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+div {
+	padding-top: 50px;
+
+}
+
+
+a {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
