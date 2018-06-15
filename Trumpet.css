@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://img00.deviantart.net/9fd2/i/2011/208/5/4/see_the_music_by_scarlettblack86-d41uvrb.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #d866ff;
+}
+
+
+
+
+iframe {
+	display:block;
+	margin:auto;
+}
+
+h1 {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+}
+
+
+
+div {
+	padding-top: 50px;
+
+}
+
+
+a {
+	background-color:#c9fff9;
+    color: #ff5beb;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
